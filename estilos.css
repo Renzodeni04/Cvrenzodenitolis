@@ -1,0 +1,87 @@
+style 
+body{
+   background-color:rgb(255, 255, 255);
+   font-size: large;
+   
+
+  }
+  .titulo{
+     font-size: 50px;
+     color: rgb(255, 255, 255);
+     background-color: rgb(63, 199, 211);
+     padding: 45px;
+     padding-left: 500x;
+   }
+   .imagen{
+      margin: 55px;
+      border-radius: 44px;
+      text-align: center;
+    
+   }
+   .texto{
+      font-size: 20px;
+      position: relative;
+      left: 50px;
+      bottom: 10px;
+   }
+   .entradas{
+      padding:50px;
+      position: relative;
+      bottom: 20px;
+      background-color: rgb(63, 199, 211);
+      display: flex;
+      font-size: 50px;
+   }
+   .datosperso{
+      font-size: 25px;  
+      position: relative;
+      left: 500px;
+      bottom: 700px;
+
+
+   }
+   .estu{
+      border-radius: 20px;
+      background-color: rgb(255, 255, 255);
+      padding: 30px;
+      position: relative;
+      left: 10px;
+
+   }
+   .idio{
+      border-radius: 20px;
+      background-color: rgb(255, 255, 255);
+      padding: 30px;
+      position: relative;
+      left: 150px;
+   }
+   .habi{
+      border-radius: 20px;
+      background-color: rgb(255, 255, 255);
+      padding: 30px;
+      position: relative;
+      left: 80px;
+   }
+   .exp{
+      border-radius: 20px;
+      background-color: rgb(255, 255, 255);
+      padding: 30px;
+      position: relative;
+      left:220px;
+   }
+   .menu{
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    position: relative;
+    left:620px;
+ }
+ .entradas2{
+    padding:50px;
+    position: relative;
+    bottom: -250px;
+    background-color: rgb(63, 199, 211);
+    display: flex;
+    font-size: 50px;
+ }
+   
