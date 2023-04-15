@@ -1,0 +1,48 @@
+style 
+body{
+   background-color:rgb(255, 255, 255);
+   font-size: large;
+
+  }
+  .entradas2{
+    padding:50px;
+    position: relative;
+    bottom: 500px;
+    background-color: rgb(63, 199, 211);
+    display: flex;
+    font-size: 50px;
+ }
+ .menu{
+    border-radius: 200px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    position: relative;
+    left:620px;
+    font-family: 'Oswald', sans-serif;
+
+ }
+ .titulo{
+    position: relative;
+    color: rgb(255, 255, 255);
+    background-color: rgb(63, 199, 211);
+    padding: 50px;
+    bottom: 10px;
+    padding-left: 620px;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+  }
+ .datos{
+    font-size: 20px;  
+    position: relative;
+    left: 500px;
+    bottom:530px;
+    font-family: 'Oswald', sans-serif;
+
+
+ }
+ .lineas{
+    padding: 5px;
+    background-color: rgb(63, 199, 211);
+
+ }
+ 
